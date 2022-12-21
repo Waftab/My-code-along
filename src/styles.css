@@ -1,0 +1,27 @@
+main {
+  text-align: center;
+  vertical-align: center;
+  line-height: 100vh;
+}
+
+body {
+  background-image: url("https://static.vecteezy.com/system/resources/previews/002/538/633/original/sweet-ice-cream-background-free-vector.jpg");
+}
+.title {
+  text-align: center;
+  font-family: "Are You Serious";
+  font-size: 40px;
+}
+
+.menu {
+  border: 5px solid #f5ee31;
+  border-radius: 25px;
+  padding: 5px;
+  background-color: #5bf5eb;
+  font-family: "Artifika";
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
